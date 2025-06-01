@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+header {
+    text-align1: right;
+    display: flex;
+    flex-direction: row;
+   h5:top of paragraph;
+}
+nav {
+    margin:0;
+    padding:0;
+    overflow: hiden;
+    
+    
+}
+nav ul {
+    all element in right side;
+
+}
+nav ul li{
+    float: left;
+}
+nav ul li a {
+    display: none block;
+
+}
+footer {
+    text-align: center;
+    position: relatives;
+    bottom: 0;
+    width:100%;
+}
+
+

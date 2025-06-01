@@ -1,0 +1,15 @@
+.center {
+    text-align:center;
+    color:bisque;
+}
+h3 {
+    color:aliceblue;
+}
+table,th,td {
+    background-color:powderblue;
+    border:1px solid pink;
+}
+p {
+    color:white;
+    background-color:brown;
+}
