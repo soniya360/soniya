@@ -1,0 +1,5 @@
+For Loop:
+
+for (exoression 1; expression2; exprisson 3){
+       // code;
+     }
